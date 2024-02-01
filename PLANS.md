@@ -12,6 +12,7 @@
  - Supports `ls` to view files in current dir
  - Invoking a filename opens that webpage? or maybe just prints out text? (let's go with opens the webpage)
  - Really want this to actually reflect structure of the website itself (probably won't work with JS-based thing tho, i doubt that's how JS pages work. Oh well.)
+ - When a webpage is opened, the bottom portion is still the terminal, and the top portion is the rendered webpage. Perhaps like "layout src" in gdb.
  - Other commands:
    - `cd` to change dirs
    - `cat` to read out contents of a file (won't literally read it out, just maybe a description?)
